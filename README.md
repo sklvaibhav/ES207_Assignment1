@@ -1,4 +1,4 @@
-## UEES 207: Geophysical Processes — Assignment II
+## ES 207: Earth Science Laboratory — Assignment I
 
 ### Problem Statement
 Develop a numerical code (e.g., in MATLAB or Python) to compute and visualize the radial component of the magnetic field, $B_r$, at the Earth's Core-Mantle Boundary (CMB). The visualization must utilize spherical harmonic expansion based on the provided Gauss coefficients.
@@ -52,4 +52,4 @@ Your submission must include:
 2.  **Generated Plots:** Four high-resolution plots corresponding to the benchmark cases ($l=1, m=0$; $l=2, m=2$; $l=3, m=1$; and the full reconstruction up to $l=10$).
 
 ---
-**Course:** UEES 207 Geophysical Processes
+**Course:** ES 207 Earth Science Laboratory
